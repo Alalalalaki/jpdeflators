@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Icon?
+
+# editor files
+*.sublime-workspace
+*.sublime-project
+*.iml
+.idea
+*.code-workspace
+.vscode
+
+# Python
+__pycache__
+*.pyc
+.mypy_cache
+
+# IPython
+.ipynb_checkpoints
+
+# pdf
+*.pdf
